@@ -1,0 +1,9 @@
+bootstrap
+
+framework  --> HTML CSS + Responsive
+
+for connecting bootstrap, get the link from bootstrap site and set into HEAD tag (for CSS classes).
+
+enabling the functionalities, get the Java Script link and set into BODY tag(just before end of body tag).
+
+we can get any component from bootstrap site manually.
